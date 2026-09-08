@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.svg" alt="CamboVerse" width="420" />
+<img src="public/logo.svg" alt="CamboVerse" width="320" />
 
 # CamboVerse
 
